@@ -1,1 +1,11 @@
-
+img{
+    width:100%;
+}
+#nav2{
+    color:white;
+    width: 50%; 
+    margin: 0 auto;
+}
+#signin{
+    margin: 10px;
+}
