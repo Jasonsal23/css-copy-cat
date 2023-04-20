@@ -9,3 +9,14 @@ img{
 #signin{
     margin: 10px;
 }
+#disneytitle{
+    text-align: center;
+    margin-top: 25px;;
+}
+.container{
+    margin-top: 25px;
+    text-align: center;
+}
+.container2{
+    margin: 30px 75px;
+}
